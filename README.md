@@ -1,23 +1,26 @@
-# stats220
+# Learning Resources📚
 
-Hi! My name is Dean 👋
+**Hi! My name is Dean** 👋
 
-This is my stats220 repository 🌱
+I am an undergraduate student and I made this to share some useful learning resources with you.🌱
 
-For everyone
-
-*  Feel free to watch this repository
-* Feel free to throw out suggestions
-
-*Hope you like my works!*
+*Hope this helps you!*
 
 ![](https://media.tenor.com/Bz1JnQ4infQAAAAM/dean-winchester-wink.gif)
 
-# Some useful websites👀
+## University couses
 
-[ScienceDirect](https://www-sciencedirect-com.ezproxy.auckland.ac.nz/)
+* Statistics 🔢
+* Psychology 🧠
+* Chemical 👨‍🔬
+* Economics 💵
+* ...
 
-[JSTOR](https://www.jstor.org/)
+## Some useful websites👀
 
-[Oxford Academic](https://academic.oup.com/)
+1. [ScienceDirect](https://www-sciencedirect-com.ezproxy.auckland.ac.nz/)
+2. [JSTOR](https://www.jstor.org/)
+3. [Oxford Academic](https://academic.oup.com/)
+
+
 
